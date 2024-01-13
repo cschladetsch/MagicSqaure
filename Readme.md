@@ -1,3 +1,5 @@
-# Magic Sauare
+# Magic Square
+
+
 
 
